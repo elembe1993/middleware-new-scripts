@@ -1,1 +1,2 @@
 # middleware-scripts
+lsblk
