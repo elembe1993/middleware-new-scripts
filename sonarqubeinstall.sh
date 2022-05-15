@@ -3,7 +3,7 @@
 #Author: Group 10
 #Date: Feb 22 2022
 
-echo "We are installing Sonarqube on CentOS7"
+#echo "We are installing Sonarqube on CentOS7"
 
 
 sudo yum update -y
